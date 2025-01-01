@@ -250,7 +250,7 @@ a{
     width : 25%; 
 }
 
-.playerControlIcon{
+.playerControls img{
     height: 1rem;
     margin-left: 1.5rem;
     opacity: 0.6;
@@ -262,7 +262,7 @@ a{
     align-items: center;
 }
 
-.playerControlIcon:hover{
+.playerControls img:hover{
     opacity: 1;
 }
 
